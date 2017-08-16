@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFisierVideo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFisierVideo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFisierVideo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FisierVideo>
+    <Cale>nedefinit</Cale>
+    <Nume>Lie.to.Me.S03E01.720p.HDTV.X264-DIMENSION (1).mkv</Nume>
+    <Gen>nedefinit</Gen>
+    <Rating>0</Rating>
+    <Durata>0</Durata>
+  </FisierVideo>
+  <FisierVideo>
+    <Cale>nedefinit</Cale>
+    <Nume>Lie.to.Me.S03E02.720p.HDTV.X264-DIMENSION (1).mkv</Nume>
+    <Gen>nedefinit</Gen>
+    <Rating>0</Rating>
+    <Durata>0</Durata>
+  </FisierVideo>
+  <FisierVideo>
+    <Cale>nedefinit</Cale>
+    <Nume>Lie.to.Me.S03E03.720p.HDTV.X264-DIMENSION (1).mkv</Nume>
+    <Gen>nedefinit</Gen>
+    <Rating>0</Rating>
+    <Durata>0</Durata>
+  </FisierVideo>
+  <FisierVideo>
+    <Cale>nedefinit</Cale>
+    <Nume>Lie.to.Me.S03E04.720p.HDTV.X264-DIMENSION (1).mkv</Nume>
+    <Gen>nedefinit</Gen>
+    <Rating>0</Rating>
+    <Durata>0</Durata>
+  </FisierVideo>
+</ArrayOfFisierVideo><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFisierVideo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FisierVideo>
+    <Cale>nedefinit</Cale>
+    <Nume>Seinfeld.S08E01.The.Foundation.DVDRip.x264-HEiT.mkv</Nume>
+    <Gen>nedefinit</Gen>
+    <Rating>0</Rating>
+    <Durata>0</Durata>
+  </FisierVideo>
+  <FisierVideo>
+    <Cale>nedefinit</Cale>
+    <Nume>Seinfeld.S08E02.The.Soulmate.DVDRip.x264-HEiT.mkv</Nume>
+    <Gen>nedefinit</Gen>
+    <Rating>0</Rating>
+    <Durata>0</Durata>
+  </FisierVideo>
+  <FisierVideo>
+    <Cale>nedefinit</Cale>
+    <Nume>Seinfeld.S08E03.The.Bizzaro.Jerry.DVDRip.x264-HEiT.mkv</Nume>
+    <Gen>nedefinit</Gen>
+    <Rating>0</Rating>
+    <Durata>0</Durata>
+  </FisierVideo>
+</ArrayOfFisierVideo>
